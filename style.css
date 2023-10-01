@@ -1,0 +1,45 @@
+#zone1
+{
+    font-family:'Roboto Mono';
+    background-color: antiquewhite;
+    border: 1px solid;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+h1
+{
+    color: rgb(18, 71, 139);
+    font-size: 3em;
+}
+h3
+{
+    color: rgb(13, 87, 11);
+    font-size: 0.8em;
+}
+.mini-title
+{
+    font-weight: bold;
+}
+.main-list li
+{
+    list-style-type: none;
+}
+a
+{
+    text-decoration: none;
+    color: brown;
+    font-weight: bold;
+    padding: 0px;
+    margin: 0px;
+}
+a:hover
+{
+    color: rgb(83, 14, 14);
+}
+img
+{
+    border: solid brown 5px;
+    border-radius: 20px;
+}
